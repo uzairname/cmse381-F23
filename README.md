@@ -1,3 +1,5 @@
+Fork of this repo to work on lecture notebooks
+
 # CMSE381 - Fall 2023
 
 ## Dr Elizabeth Munch
